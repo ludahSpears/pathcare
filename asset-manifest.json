@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/marumotech/static/css/main.a617e044.chunk.css",
-    "main.js": "/marumotech/static/js/main.ca77723c.chunk.js",
-    "main.js.map": "/marumotech/static/js/main.ca77723c.chunk.js.map",
-    "runtime-main.js": "/marumotech/static/js/runtime-main.1c3b7af6.js",
-    "runtime-main.js.map": "/marumotech/static/js/runtime-main.1c3b7af6.js.map",
-    "static/js/2.9b2863cc.chunk.js": "/marumotech/static/js/2.9b2863cc.chunk.js",
-    "static/js/2.9b2863cc.chunk.js.map": "/marumotech/static/js/2.9b2863cc.chunk.js.map",
-    "static/js/3.56105efb.chunk.js": "/marumotech/static/js/3.56105efb.chunk.js",
-    "static/js/3.56105efb.chunk.js.map": "/marumotech/static/js/3.56105efb.chunk.js.map",
-    "index.html": "/marumotech/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/marumotech/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.9b2863cc.chunk.js.LICENSE.txt": "/marumotech/static/js/2.9b2863cc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/marumotech/static/media/logo.6ce24c58.svg"
+    "main.css": "/pathcare/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/pathcare/static/js/main.a6eefa62.chunk.js",
+    "main.js.map": "/pathcare/static/js/main.a6eefa62.chunk.js.map",
+    "runtime-main.js": "/pathcare/static/js/runtime-main.8b3caed5.js",
+    "runtime-main.js.map": "/pathcare/static/js/runtime-main.8b3caed5.js.map",
+    "static/js/2.204d4bd0.chunk.js": "/pathcare/static/js/2.204d4bd0.chunk.js",
+    "static/js/2.204d4bd0.chunk.js.map": "/pathcare/static/js/2.204d4bd0.chunk.js.map",
+    "static/js/3.4ec157cc.chunk.js": "/pathcare/static/js/3.4ec157cc.chunk.js",
+    "static/js/3.4ec157cc.chunk.js.map": "/pathcare/static/js/3.4ec157cc.chunk.js.map",
+    "index.html": "/pathcare/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/pathcare/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.204d4bd0.chunk.js.LICENSE.txt": "/pathcare/static/js/2.204d4bd0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pathcare/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c3b7af6.js",
-    "static/js/2.9b2863cc.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ca77723c.chunk.js"
+    "static/js/runtime-main.8b3caed5.js",
+    "static/js/2.204d4bd0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a6eefa62.chunk.js"
   ]
 }
