@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pathcare/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/pathcare/static/js/main.87b831bb.chunk.js",
-    "main.js.map": "/pathcare/static/js/main.87b831bb.chunk.js.map",
+    "main.js": "/pathcare/static/js/main.ae2bae6b.chunk.js",
+    "main.js.map": "/pathcare/static/js/main.ae2bae6b.chunk.js.map",
     "runtime-main.js": "/pathcare/static/js/runtime-main.c9aac1aa.js",
     "runtime-main.js.map": "/pathcare/static/js/runtime-main.c9aac1aa.js.map",
     "static/js/2.ca7cccff.chunk.js": "/pathcare/static/js/2.ca7cccff.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c9aac1aa.js",
     "static/js/2.ca7cccff.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.87b831bb.chunk.js"
+    "static/js/main.ae2bae6b.chunk.js"
   ]
 }
