@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <p>Marumo</p>
-      <a href="/pathcare/test.pdf" target="_blank">file name</a>
+      <a href="/pathcare/results/test.pdf" target="_blank">file name</a>
       <br />
-      <Link to="/pathcare/test.pdf" target="_blank">Test File</Link>
+      <Link to="/pathcare/results/test.pdf" target="_blank">Test File</Link>
     </div>
   );
 }
